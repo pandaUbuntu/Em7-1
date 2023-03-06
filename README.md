@@ -9,3 +9,6 @@ Loky
 Tanos
 Mysterio
 Ronyn
+
+Piter Quill
+Homora
