@@ -2,8 +2,6 @@
 Iron Man
 Racoon Rocket
 Captain America
-Halk
-Thor
 Loky
 
 Tanos
