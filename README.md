@@ -5,3 +5,7 @@ Captain America
 Halk
 Thor
 Loky
+
+Tanos
+Mysterio
+Ronyn
