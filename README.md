@@ -1,5 +1,4 @@
 # Em7-1
-Batman
-Sups
-Wonder woman
-
+Tanos
+Mysterio
+Ronyn
