@@ -1,12 +1,5 @@
 # Em7-1
-Iron Man
-Racoon Rocket
-Captain America
-Loky
+Batman
+Sups
+Wonder woman
 
-Tanos
-Mysterio
-Ronyn
-
-Piter Quill
-Homora
